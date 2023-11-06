@@ -1,2 +1,1 @@
-### Hi, I'm Jaxongir Mirhalikov <iframe src="https://giphy.com/embed/SwZBtqe4yvEWP7q07X" width="480" height="379" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
+### Hi, I'm Jaxongir Mirhalikov <img src="https://media2.giphy.com/media/SwZBtqe4yvEWP7q07X/giphy.gif?cid=ecf05e47rdrfihupfafo5lox0hqt289m01torthctm5yqwra&ep=v1_stickers_search&rid=giphy.gif&ct=s">
